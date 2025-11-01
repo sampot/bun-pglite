@@ -1,0 +1,15 @@
+{
+  "name": "bun-pglite",
+  "module": "bun-todo.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.3.11"
+  }
+}
