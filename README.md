@@ -1,4 +1,6 @@
-# zig-pglite
+# bun-pglite
+
+Demo how to build a single executable with Bun and Deno. The source script uses PGlite and a workaround is needed for now for Bun to properly bundling.
 
 To install dependencies:
 
